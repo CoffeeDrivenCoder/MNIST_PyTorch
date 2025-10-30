@@ -1,4 +1,3 @@
-# 日期：2021年07月17日
 import torch.nn as nn
 import torch.nn.functional as F
 
